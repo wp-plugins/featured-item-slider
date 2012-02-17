@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: Md. Ariful Haque Khan
+Contributors: arifullancer
 Donate link: http://freelancegateway.com/featured-item-slider/
 Tags: slideshow, content slideshow, slideshow, wp slideshow, featured content slideshow, gallery, content gallery, wordpress gallery
 Requires at least: 3.0
