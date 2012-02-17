@@ -6,11 +6,11 @@ Requires at least: 3.0
 Tested up to: 3.3.1
 Stable tag: 1.0
 
-WP Content Slideshow is the perfect Slideshow for Wordpress. It displays up to 5 Posts or Pages with Tile, Description and Image for every Post.
+Featured item slider is the perfect Slideshow for Wordpress. It displays up to 5 Posts or Pages with Tile, Description and Image for every Post.
 
 == Description ==
 
-WP Content Slideshow shows up to 5 Posts or Pages in a very nice and powerful Javascript Slideshow. On the left side of the Slideshow it displays a Image for every Post. On the right side, there are all the Titles
+Featured item slider shows up to 5 Posts or Pages in a very nice and powerful Javascript Slideshow. On the left side of the Slideshow it displays a Image for every Post. On the right side, there are all the Titles
 (and a small description under the Title) of the Posts/Pages. The Slideshow highlights the active Post and repeats automatically after getting to the 5th Post.  You have a powerful Administration Area to adjust the
 whole Layout of the Slideshow. Inserting new Posts/Pages now is as easy as can be. Just choose "Feature in WP-Content Slideshow" when editing a post or a page.
 
@@ -33,7 +33,7 @@ Future Plan
 3. Place `<?php include (ABSPATH . '/wp-content/plugins/featured-item-slider/featured-item-slider.php'); ?>` in your template or use [itemslider] as placeholder on a page/post to show the Slidehsow.
 4. Edit a post or a page and choose "Feature in Featured Item Slider", right beneath your Editor
 5. Set an image as "Featured Image" (Wordpress Post-Thumbnail Support)
-6. Edit Layout & Settings in WP-Admin (Settings -> WP Content Slideshow). Here Change the height and width,
+6. Edit Layout & Settings in WP-Admin (Settings -> Featured item slider). Here Change the height and width,
 all the other dimension will be changed automatically. Also you can change the colors.
 
 == Frequently Asked Questions ==
