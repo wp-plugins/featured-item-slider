@@ -3,7 +3,7 @@
  * @package featured-item-slider
  */
 /*
-Plugin Name: featured item slider
+Plugin Name: Featured Item Slider
 Plugin URI: http://freelancegateway.com/featured-item-slider/
 Description: Show five feature item (post or page) with a auto slider and Thumb and big piture any where you want.
 Version: 1.0
